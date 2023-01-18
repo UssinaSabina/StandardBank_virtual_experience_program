@@ -13,7 +13,7 @@ During this programme, participants get the opportunity to step into the shoes o
 **The Metrics:** Accuracy Score and the ROC AUC Score.<br /><br />
 **Modeling:** This problem is a binary classification as we are predicting two classes - approval or declination of a loan. We tried 4 different models: Random Forest, Support Vector Machines, AdaBoost, Gradient Boosting. After training the selected models, we chose Random Forest and by performing hyperparameter tuning we obtained 86,2% accuracy score.<br /><br />
 **Conclusion:** The Random Forest Classifier has given us the best results.<br /><br />
-# Repositoy Guide
+# Repository Guide
 **Notebook**<br /><br />
 https://github.com/UssinaSabina/StandardBank_virtual_experience_program/blob/main/Predicting%20Loan%20Defaults.ipynb <br /><br />
 **CSV files**<br /><br />
