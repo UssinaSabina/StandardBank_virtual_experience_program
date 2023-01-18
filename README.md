@@ -15,5 +15,5 @@ During this programme, participants get the opportunity to step into the shoes o
 **Conclusion:** The Random Forest Classifier has given us the best results.<br /><br />
 # Repositoy Guide
 **Notebook**<br /><br />
-
+https://github.com/UssinaSabina/StandardBank_virtual_experience_program/blob/main/Predicting%20Loan%20Defaults.ipynb
 **CSV files**<br /><br />
