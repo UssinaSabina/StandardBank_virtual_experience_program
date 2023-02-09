@@ -1,4 +1,4 @@
-# StandardBank_virtual_experience_program
+# Standard Bank Virtual Experience Program
 ## About the programme:
 During this programme, participants get the opportunity to step into the shoes of a Standard Bank team member and complete tasks that replicate the work that Data Science team does every day. The goal is to learn how to understand the data science project lifecycle, course train a model, and present the process as it relates to business objectives.
 ## Data Science With Python: Predicting Loan Defaults
